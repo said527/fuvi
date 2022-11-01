@@ -23,7 +23,7 @@ int main (){
 	cout << "Ingrese los datos: " << endl; 
 	for(int i = 0; i < 2;i++){
 		for(int j = 0; j < 2;j++){
-			cout << setw (15); "Elemento [" << i << "," << j << "]  = " << matrizA[i][j];
+			cout << setw (15) "Elemento [" << i << "," << j << "]  = " << matrizA[i][j];
 			
 			
 		}
